@@ -12,8 +12,8 @@
 *.la
 *.a
 
-OV7670/
 Camera7670/Visual Micro
+Camera7670/Debug
 Camera7670/Camera7670.atsln
 Camera7670/Camera7670.atsuo
 Camera7670/Camera7670.cppproj
